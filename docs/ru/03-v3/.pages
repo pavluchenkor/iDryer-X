@@ -1,0 +1,14 @@
+title: v3
+nav:
+  - Обзор: overview.md
+  - Комплект KIT: kit.md
+  - Детали корпуса: pir-box-cad.md
+  - PIR-Box: pir-box.md
+  - Перед сборкой: before.md
+  - Сборка корпуса: cabinet.md
+  - Заслонка вентиляции: air-damper.md
+  - Пол и катушкодержатели: load-cell.md
+  - Подключение тензодатчиков: load-cell-connect.md
+  - Печатная плата (контроллер): pcb.md
+  - Pinout: pcb-pinout.md
+  - Инструкция по сборке r2.1: pcb-manual.md
