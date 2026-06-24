@@ -1,9 +1,9 @@
 title: v1
 nav:
-  - Корпус из PIR: pir-box.md
-  - Корпус из EPP: alternative-case.md
-  - Заслонка (v0): air-damper-v0.md
-  - Нагреватель с кулером: heater.md
-  - Катушкодержатель: scale-module.md
-  - Печатная плата: pcb-r2.md
-  - Корпус контроллера r2: pcb-case.md
+  - Корпус из PIR:          pir-box.md
+  - Корпус из EPP:          alternative-case.md
+  - Заслонка (v0):          air-damper-v0.md
+  - Нагреватель с кулером:  heater.md
+  - Катушкодержатель:       scale-module.md
+  - Печатная плата:         pcb-r2.md
+  - Корпус контроллера r2:  pcb-case.md
