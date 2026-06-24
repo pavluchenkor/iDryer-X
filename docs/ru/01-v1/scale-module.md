@@ -13,11 +13,11 @@
 
 Модели легко переделать под имеющиеся в наличии подшипники
 
-!!! quote annotate "Файлы для печати на 3д принтере"
+!!! note "Файлы для печати на 3д принтере"
 
-    **[Весы узкие.stp](../../../CAD/common/scale-module/scale_narrow.stp)**
+    [Весы узкие.stp](../../../CAD/common/scale-module/scale_narrow.stp)
 
-    :material-download:** [Весы.stp](../../../CAD/common/scale-module/scale.stp)**
+    [Весы.stp](../../../CAD/common/scale-module/scale.stp)
 
 ![катушкодержатель](../../img/scale-module/IMG_9192-web.jpeg)
 ![катушкодержатель](../../img/scale-module/IMG_9187-web.jpeg)
@@ -32,9 +32,9 @@
 ### От @gungrel
 Катушкодержатель металл гибка под подшипники 623. В сборке основания под 1,2,3 и 4 катушки. В качестве ролика используется трубка алюминиевая 12х1
 
-!!! quote annotate "Модель для лазерной резки и гибки [от @gungrel](https://t.me/gungrel)"
+!!! info "Модель для лазерной резки и гибки [от @gungrel](https://t.me/gungrel)"
 
-    :material-download:** [Катушкодержатель гибка финал.stp](../../../CAD/common/scale-module/spool_holder_bending_final.stp)
+    [Катушкодержатель гибка финал.stp](../../../CAD/common/scale-module/spool_holder_bending_final.stp)
 
 ### Ремикс [от @Kekht](https://t.me/Kekht)
 *на раннюю версию держателя [от @gungrel](https://t.me/gungrel)*
@@ -65,21 +65,21 @@
 
 [Видео](https://www.youtube.com/embed/iAZZLo_1NXo?si=j_zRWY-Wy7RiXFXJ)
 
-!!! quote annotate "Ремикс [от @Kekht](https://t.me/Kekht) на раннюю версию держателя [от @gungrel](https://t.me/gungrel)"
+!!! info "Ремикс [от @Kekht](https://t.me/Kekht) на раннюю версию держателя [от @gungrel](https://t.me/gungrel)"
 
-    :material-download:** [SpoolHolderWeightModule_v1_3_2.STEP](../../../CAD/common/scale-module/SpoolHolderWeightModule_v1_3_2.STEP)
+    [SpoolHolderWeightModule_v1_3_2.STEP](../../../CAD/common/scale-module/SpoolHolderWeightModule_v1_3_2.STEP)
 
-    :material-download:** [Rollers_Holder_v1_3.DXF](../../../CAD/common/scale-module/Rollers_Holder_v1_3.DXF)
+    [Rollers_Holder_v1_3.DXF](../../../CAD/common/scale-module/Rollers_Holder_v1_3.DXF)
 
-    :material-download:** [Base_Single_v1_2.DXF](../../../CAD/common/scale-module/Base_Single_v1_2.DXF)
+    [Base_Single_v1_2.DXF](../../../CAD/common/scale-module/Base_Single_v1_2.DXF)
 
 ### Вариант от Саши
 
 ![катушкодержатель](../../img/scale-module/Sasha1.jpg)
 ![катушкодержатель](../../img/scale-module/Sasha2.jpg)
 
-!!! quote annotate "Модель для фрезеровки"
+!!! note "Модель для фрезеровки"
 
-    **[Sasha.STEP](../../../CAD/common/scale-module/Sasha.STEP)
+    [Sasha.STEP](../../../CAD/common/scale-module/Sasha.STEP)
 
     [разработано Саша](https://t.me/iDryer/9446)

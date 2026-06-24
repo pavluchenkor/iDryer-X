@@ -13,7 +13,7 @@ KIT набор iDryer v3 включает необходимые для само
 
 ![KIT](../../img/kit/KIT.jpg)
 
-!!! note annotate Состав KIT полный
+!!! note "Состав KIT полный"
 
     - Печатная плата
     - ARDUINO_NANO

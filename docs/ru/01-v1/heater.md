@@ -3,11 +3,11 @@
 
 Модуль от [@gungrel](https://t.me/gungrel)
 
-!!! quote annotate "Файлы для печати"
+!!! note "Файлы для печати"
 
-    **[Крепление бме280.stl](../../../CAD/common/heater/mount_bme280.stl)** - Крепление бме280.stl
+    [Крепление бме280.stl](../../../CAD/common/heater/mount_bme280.stl)
 
-    ** [Модуль нагревателя PTC 100W 220V 7530 7525.stp](../../../CAD/common/heater/PTC_100W_220V_7530_7525.stp)** - Модуль нагревателя
+    [Модуль нагревателя PTC 100W 220V 7530 7525.stp](../../../CAD/common/heater/PTC_100W_220V_7530_7525.stp)
 
 ## Покупка комплектующих
 

@@ -60,10 +60,10 @@
 
 | Наименование | x2 | x3 | x4 | Ссылка |
 |---|---|---|---|---|
-| Винт м4х20 (тенза-качеля) | 4 | 6 | 8 | [link](https://www.vseinstrumenti.ru/product/vint-dobroga-s-polutsilindricheskoj-golovkoj-m4x20-mm-tsink-din-7985-500-sht-tsb-00033786-12329549/) |
-| Шайба м4х1мм DIN125 (тенза-качеля) | 4 | 6 | 8 | [link](https://www.vseinstrumenti.ru/product/shajba-dinfix-nerzh-a2-m4-din-125-500-sht-00-00002263-3587760/) |
-| Винт м4(м5)х16 (пол-тенза) | 4 | 6 | 8 | [link](https://www.vseinstrumenti.ru/product/vint-dobroga-p-tsilindr-m5x20-mm-tsink-din-7985-250-sht-tsb-00033795-12874948/) |
-| Шайба м4(5)х1мм DIN125 (пол-тенза) | 4 | 6 | 8 | [link](https://www.vseinstrumenti.ru/product/shajba-dinfix-nerzh-a2-m5-din-125-500-sht-00-00002266-3587778/) |
+| Винт м4х20 (тензодатчик-катушкодержатель) | 4 | 6 | 8 | [link](https://www.vseinstrumenti.ru/product/vint-dobroga-s-polutsilindricheskoj-golovkoj-m4x20-mm-tsink-din-7985-500-sht-tsb-00033786-12329549/) |
+| Шайба м4х1мм DIN125 (тензодатчик-катушкодержатель) | 4 | 6 | 8 | [link](https://www.vseinstrumenti.ru/product/shajba-dinfix-nerzh-a2-m4-din-125-500-sht-00-00002263-3587760/) |
+| Винт м4(м5)х16 (пол-тензодатчик) | 4 | 6 | 8 | [link](https://www.vseinstrumenti.ru/product/vint-dobroga-p-tsilindr-m5x20-mm-tsink-din-7985-250-sht-tsb-00033795-12874948/) |
+| Шайба м4(5)х1мм DIN125 (пол-тензодатчик) | 4 | 6 | 8 | [link](https://www.vseinstrumenti.ru/product/shajba-dinfix-nerzh-a2-m5-din-125-500-sht-00-00002266-3587778/) |
 | Гровер | 4 | 6 | 8 | [link](https://www.vseinstrumenti.ru/product/shajba-pruzhinnaya-partner-din-127b-tsink-m5-500-sht-korobka-805270-14668325/) |
 | Саморез | 18 | 18 | 18 | [link](https://www.vseinstrumenti.ru/product/okonnyj-furniturnyj-samorez-daxmer-4-1x20-mm-bel-tsink-ostryj-1000-sht-336822-7589402/) |
 | Винт м3х25 (заслонка серво) | 6 | 6 | 6 | [link](https://www.vseinstrumenti.ru/product/potajnoj-vint-metiznyj-dvor-m3x25-din-965-200-sht-4607159066534-1120715/) |

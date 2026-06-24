@@ -6,7 +6,9 @@
 
 !!! warning annotate "Файлы для скачивания r2"
 
-    PCB Design r2 [jlcpcb.com](https://oshwlab.com/svet_team/idryer)
+    PCB Design r2 
+    [oshwlab](https://oshwlab.com/svet_team/idryer) 
+    [easyeda](https://easyeda.com/editor#project_id=2e5c7e9f855c4382b6348d0dd1a322dc)
 
     BOM для самостоятельной сборки r2 [google docs](https://docs.google.com/spreadsheets/d/13WdUZXiJUIk1PS-rFiE8_W3LRcMZVskWiTUnrRRYlAE/edit?usp=sharing)
 
