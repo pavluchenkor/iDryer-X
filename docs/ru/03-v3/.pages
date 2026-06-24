@@ -12,3 +12,4 @@ nav:
   - Печатная плата (контроллер): pcb.md
   - Pinout: pcb-pinout.md
   - Инструкция по сборке r2.1: pcb-manual.md
+  - BOM: bom.md
