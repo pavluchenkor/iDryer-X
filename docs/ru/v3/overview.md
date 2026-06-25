@@ -1,5 +1,9 @@
 # iDryer V3
 
+!!! note 
+
+    адаптирована для работы с iDryerController и iDryerControllerV2
+
 ![iDryer](../../img/overview/iDryer.png){.img-left}
 
 ## Актуальная версия
