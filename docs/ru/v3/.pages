@@ -1,7 +1,6 @@
 title: v3
 nav:
   - Обзор:                        overview.md
-  - Комплект KIT:                 kit.md
   - Детали для печати:            pir-box-cad.md
   - Детали корпуса PIR:           pir-box.md
   - Перед сборкой:                before.md
@@ -13,3 +12,4 @@ nav:
   - Pinout:                       pcb-pinout.md
   - Инструкция по сборке r2.1:    pcb-manual.md
   - BOM:                          bom.md
+  - Комплект KIT:                 kit.md
