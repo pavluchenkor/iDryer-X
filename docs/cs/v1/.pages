@@ -1,0 +1,9 @@
+title: v1
+nav:
+  - Kryt z PIR:             pir-box.md
+  - Kryt z EPP:             alternative-case.md
+  - Klapka (v0):            air-damper-v0.md
+  - Ohřívač s ventilátorem: heater.md
+  - Držák cívky:            scale-module.md
+  - Deska plošných spojů:   pcb-r2.md
+  - Kryt kontroleru r2:     pcb-case.md

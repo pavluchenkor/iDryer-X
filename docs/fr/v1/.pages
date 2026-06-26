@@ -1,0 +1,9 @@
+title: v1
+nav:
+  - Boîtier en PIR:         pir-box.md
+  - Boîtier en EPP:         alternative-case.md
+  - Clapet (v0):            air-damper-v0.md
+  - Chauffage avec ventilateur: heater.md
+  - Support de bobine:      scale-module.md
+  - Circuit imprimé:        pcb-r2.md
+  - Boîtier du contrôleur r2: pcb-case.md

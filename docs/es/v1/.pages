@@ -1,0 +1,9 @@
+title: v1
+nav:
+  - Carcasa de PIR:         pir-box.md
+  - Carcasa de EPP:         alternative-case.md
+  - Compuerta (v0):         air-damper-v0.md
+  - Calentador con ventilador: heater.md
+  - Portabobinas:           scale-module.md
+  - Placa de circuito impreso: pcb-r2.md
+  - Carcasa del controlador r2: pcb-case.md

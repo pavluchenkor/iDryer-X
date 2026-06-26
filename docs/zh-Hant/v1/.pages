@@ -1,0 +1,9 @@
+title: v1
+nav:
+  - PIR外殼:                pir-box.md
+  - EPP外殼:                alternative-case.md
+  - 風門 (v0):              air-damper-v0.md
+  - 附風扇加熱器:           heater.md
+  - 線軸支架:               scale-module.md
+  - 印刷電路板:             pcb-r2.md
+  - 控制器外殼 r2:          pcb-case.md

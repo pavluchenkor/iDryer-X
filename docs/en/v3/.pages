@@ -1,0 +1,15 @@
+title: v3
+nav:
+  - Overview:                     overview.md
+  - Printable parts:              pir-box-cad.md
+  - PIR enclosure parts:          pir-box.md
+  - Before assembly:              before.md
+  - Enclosure assembly:           cabinet.md
+  - Ventilation damper:           air-damper.md
+  - Floor and spool holders:      load-cell.md
+  - Load cell wiring:             load-cell-connect.md
+  - PCB (controller):             pcb.md
+  - Pinout:                       pcb-pinout.md
+  - r2.1 assembly manual:         pcb-manual.md
+  - BOM:                          bom.md
+  - KIT package:                  kit.md

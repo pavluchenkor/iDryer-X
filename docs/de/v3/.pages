@@ -1,0 +1,15 @@
+title: v3
+nav:
+  - Übersicht:                    overview.md
+  - Druckteile:                   pir-box-cad.md
+  - PIR-Gehäuseteile:             pir-box.md
+  - Vor der Montage:              before.md
+  - Gehäusemontage:               cabinet.md
+  - Lüftungsklappe:               air-damper.md
+  - Boden und Spulenhalter:       load-cell.md
+  - Anschluss der Wägesensoren:   load-cell-connect.md
+  - Leiterplatte (Controller):    pcb.md
+  - Pinout:                       pcb-pinout.md
+  - Montageanleitung r2.1:        pcb-manual.md
+  - BOM:                          bom.md
+  - KIT-Set:                      kit.md

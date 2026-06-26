@@ -1,0 +1,15 @@
+title: v3
+nav:
+  - Přehled:                      overview.md
+  - Díly k tisku:                 pir-box-cad.md
+  - Díly krytu PIR:               pir-box.md
+  - Před montáží:                 before.md
+  - Montáž krytu:                 cabinet.md
+  - Větrací klapka:               air-damper.md
+  - Dno a držáky cívek:           load-cell.md
+  - Připojení tenzometrů:         load-cell-connect.md
+  - PCB (kontroler):              pcb.md
+  - Pinout:                       pcb-pinout.md
+  - Návod k montáži r2.1:         pcb-manual.md
+  - BOM:                          bom.md
+  - Sada KIT:                     kit.md

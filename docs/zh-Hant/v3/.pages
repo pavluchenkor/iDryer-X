@@ -1,0 +1,15 @@
+title: v3
+nav:
+  - 概覽:                         overview.md
+  - 列印零件:                     pir-box-cad.md
+  - PIR外殼零件:                  pir-box.md
+  - 組裝前:                       before.md
+  - 外殼組裝:                     cabinet.md
+  - 通風風門:                     air-damper.md
+  - 底板和線軸支架:               load-cell.md
+  - 荷重元連接:                   load-cell-connect.md
+  - PCB（控制器）:                pcb.md
+  - Pinout:                       pcb-pinout.md
+  - r2.1 組裝說明:                pcb-manual.md
+  - BOM:                          bom.md
+  - KIT套件:                      kit.md

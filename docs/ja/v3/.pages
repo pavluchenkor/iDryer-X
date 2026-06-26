@@ -1,0 +1,15 @@
+title: v3
+nav:
+  - 概要:                         overview.md
+  - 印刷用パーツ:                 pir-box-cad.md
+  - PIRケース部品:                pir-box.md
+  - 組み立て前:                   before.md
+  - ケースの組み立て:             cabinet.md
+  - 換気ダンパー:                 air-damper.md
+  - 底部とスプールホルダー:       load-cell.md
+  - ロードセルの接続:             load-cell-connect.md
+  - PCB (コントローラー):         pcb.md
+  - Pinout:                       pcb-pinout.md
+  - r2.1 組み立て手順:            pcb-manual.md
+  - BOM:                          bom.md
+  - KITセット:                    kit.md

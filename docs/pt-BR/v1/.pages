@@ -1,0 +1,9 @@
+title: v1
+nav:
+  - Gabinete em PIR:        pir-box.md
+  - Gabinete em EPP:        alternative-case.md
+  - Damper (v0):            air-damper-v0.md
+  - Aquecedor com cooler:   heater.md
+  - Suporte de carretel:    scale-module.md
+  - Placa de circuito impresso: pcb-r2.md
+  - Gabinete do controlador r2: pcb-case.md

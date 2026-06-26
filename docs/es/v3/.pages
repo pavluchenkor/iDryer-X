@@ -1,0 +1,15 @@
+title: v3
+nav:
+  - Vista general:                overview.md
+  - Piezas para imprimir:         pir-box-cad.md
+  - Piezas de la carcasa PIR:     pir-box.md
+  - Antes del montaje:            before.md
+  - Montaje de la carcasa:        cabinet.md
+  - Compuerta de ventilación:     air-damper.md
+  - Base y portabobinas:          load-cell.md
+  - Conexión de celdas de carga:  load-cell-connect.md
+  - PCB (controlador):            pcb.md
+  - Pinout:                       pcb-pinout.md
+  - Manual de montaje r2.1:       pcb-manual.md
+  - BOM:                          bom.md
+  - Kit:                          kit.md

@@ -1,0 +1,9 @@
+title: v1
+nav:
+  - PIR enclosure:          pir-box.md
+  - EPP enclosure:          alternative-case.md
+  - Damper (v0):            air-damper-v0.md
+  - Heater with fan:        heater.md
+  - Spool holder:           scale-module.md
+  - Printed circuit board:  pcb-r2.md
+  - Controller enclosure r2: pcb-case.md

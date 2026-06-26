@@ -1,0 +1,15 @@
+title: v3
+nav:
+  - Aperçu:                       overview.md
+  - Pièces à imprimer:            pir-box-cad.md
+  - Pièces du boîtier PIR:        pir-box.md
+  - Avant l'assemblage:           before.md
+  - Assemblage du boîtier:        cabinet.md
+  - Clapet de ventilation:        air-damper.md
+  - Plancher et supports de bobine: load-cell.md
+  - Connexion des capteurs de charge: load-cell-connect.md
+  - Circuit imprimé (contrôleur): pcb.md
+  - Pinout:                       pcb-pinout.md
+  - Manuel d'assemblage r2.1:     pcb-manual.md
+  - BOM:                          bom.md
+  - Kit:                          kit.md

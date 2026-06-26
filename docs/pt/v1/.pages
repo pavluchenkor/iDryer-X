@@ -1,0 +1,9 @@
+title: v1
+nav:
+  - Caixa em PIR:           pir-box.md
+  - Caixa em EPP:           alternative-case.md
+  - Registo (v0):           air-damper-v0.md
+  - Aquecedor com ventoinha: heater.md
+  - Suporte de bobina:      scale-module.md
+  - Placa de circuito impresso: pcb-r2.md
+  - Caixa do controlador r2: pcb-case.md

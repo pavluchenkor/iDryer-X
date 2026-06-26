@@ -1,0 +1,9 @@
+title: v1
+nav:
+  - PIR-Gehäuse:            pir-box.md
+  - EPP-Gehäuse:            alternative-case.md
+  - Klappe (v0):            air-damper-v0.md
+  - Heizer mit Lüfter:      heater.md
+  - Spulenhalter:           scale-module.md
+  - Leiterplatte:           pcb-r2.md
+  - Controller-Gehäuse r2:  pcb-case.md
