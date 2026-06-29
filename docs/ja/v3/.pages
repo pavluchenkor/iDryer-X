@@ -1,7 +1,7 @@
 title: v3
 nav:
   - 概要:                         overview.md
-  - 印刷用パーツ:                 pir-box-cad.md
+  - CAD:                        pir-box-cad.md
   - PIRケース部品:                pir-box.md
   - 組み立て前:                   before.md
   - ケースの組み立て:             cabinet.md

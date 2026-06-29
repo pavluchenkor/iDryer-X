@@ -1,7 +1,7 @@
 title: v3
 nav:
   - Visão geral:                  overview.md
-  - Peças para impressão:         pir-box-cad.md
+  - CAD:                          pir-box-cad.md
   - Peças do gabinete PIR:        pir-box.md
   - Antes da montagem:            before.md
   - Montagem do gabinete:         cabinet.md

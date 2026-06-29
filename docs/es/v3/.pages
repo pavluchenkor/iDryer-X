@@ -1,7 +1,7 @@
 title: v3
 nav:
   - Vista general:                overview.md
-  - Piezas para imprimir:         pir-box-cad.md
+  - CAD:                          pir-box-cad.md
   - Piezas de la carcasa PIR:     pir-box.md
   - Antes del montaje:            before.md
   - Montaje de la carcasa:        cabinet.md

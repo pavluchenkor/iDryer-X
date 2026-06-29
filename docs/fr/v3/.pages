@@ -1,7 +1,7 @@
 title: v3
 nav:
   - Aperçu:                       overview.md
-  - Pièces à imprimer:            pir-box-cad.md
+  - CAD:                          pir-box-cad.md
   - Pièces du boîtier PIR:        pir-box.md
   - Avant l'assemblage:           before.md
   - Assemblage du boîtier:        cabinet.md

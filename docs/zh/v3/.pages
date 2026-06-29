@@ -1,7 +1,7 @@
 title: v3
 nav:
   - 概览:                         overview.md
-  - 打印零件:                     pir-box-cad.md
+  - CAD:                     pir-box-cad.md
   - PIR外壳零件:                  pir-box.md
   - 组装前:                       before.md
   - 外壳组装:                     cabinet.md

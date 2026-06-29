@@ -1,7 +1,7 @@
 title: v3
 nav:
   - Обзор:                        overview.md
-  - Детали для печати:            pir-box-cad.md
+  - CAD:                          pir-box-cad.md
   - Детали корпуса PIR:           pir-box.md
   - Перед сборкой:                before.md
   - Сборка корпуса:               cabinet.md
