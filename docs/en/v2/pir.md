@@ -1,9 +1,19 @@
-<!-- i18n-placeholder: true -->
+# Advantages of PIR
 
-# Translation wanted
+PIR panels are a cheap and accessible material for building the dryer enclosure.
 
-This page is not available in this language yet.
+### Pros
 
-You can help the iDryer project by translating this article. Please use the English or Russian version as the source, check the meaning carefully, and submit your translation as a pull request to the documentation repository.
+* Low cost
+* Easy to work with and process
+* Acceptable appearance
+* One of the lowest thermal conductivity values among insulation materials
+* Does not emit harmful substances when heated
 
-Thank you for helping make the documentation available to more makers.
+### Cons
+
+* Can be deformed by impact
+
+All this makes PIR panels a convenient material for use as a dryer enclosure, as well as for insulating an active heated chamber.
+
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-blue)](https://t.me/iDryer)  [![YouTube](https://img.shields.io/badge/YouTube-Watch%20video-red)](https://www.youtube.com/@iDryerProject) [![Rutube](https://img.shields.io/badge/Rutube-Watch%20video-blue)](https://rutube.ru/channel/34401569/) -->

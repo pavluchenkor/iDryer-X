@@ -1,9 +1,22 @@
-<!-- i18n-placeholder: true -->
+# Leiterplatte
 
-# Translation wanted
+## r2
 
-This page is not available in this language yet.
+***Veraltete Version ohne Waage, Filamentendschalter, aber mit Unterstützung für 24V-Heizer***
 
-You can help the iDryer project by translating this article. Please use the English or Russian version as the source, check the meaning carefully, and submit your translation as a pull request to the documentation repository.
+!!! warning annotate "Download-Dateien r2"
 
-Thank you for helping make the documentation available to more makers.
+    PCB Design r2 
+    [oshwlab](https://oshwlab.com/svet_team/idryer) 
+    [easyeda](https://easyeda.com/editor#project_id=2e5c7e9f855c4382b6348d0dd1a322dc)
+
+    Stückliste für den manuellen Zusammenbau r2 [google docs](https://docs.google.com/spreadsheets/d/13WdUZXiJUIk1PS-rFiE8_W3LRcMZVskWiTUnrRRYlAE/edit?usp=sharing)
+
+![Leiterplatte r2](../../img/pcb-r2/photo_2023-09-15_15-46-01-web.jpeg)
+
+![Leiterplatte r2](../../img/pcb-r2/photo_2023-09-15_15-45-55-web.jpeg)
+
+Weitere Fotos können Sie in unserer Telegram-Gruppe in diesem Beitrag ansehen:
+[Zusammenbauergebnis eines Gruppenmitglieds](https://t.me/iDryer/3103)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-blue)](https://t.me/iDryer)  [![YouTube](https://img.shields.io/badge/YouTube-Watch%20video-red)](https://www.youtube.com/@iDryerProject) [![Rutube](https://img.shields.io/badge/Rutube-Watch%20video-blue)](https://rutube.ru/channel/34401569/)

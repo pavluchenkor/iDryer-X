@@ -1,9 +1,9 @@
 title: v1
 nav:
-  - PIRケース:             pir-box.md
-  - EPPケース:             alternative-case.md
-  - ダンパー (v0):         air-damper-v0.md
-  - ファン付きヒーター:    heater.md
-  - スプールホルダー:      scale-module.md
-  - プリント基板:          pcb-r2.md
-  - コントローラーケース r2: pcb-case.md
+  - PIRケース:               pir-box.md
+  - EPPケース:               alternative-case.md
+  - ダンパー (v0):           air-damper-v0.md
+  - ファン付きヒーター:        heater.md
+  - スプールホルダー:         scale-module.md
+  - プリント基板:             pcb-r2.md
+  - コントローラーケース r2:   pcb-case.md

@@ -1,9 +1,8 @@
-<!-- i18n-placeholder: true -->
+# Pinout
 
-# Translation wanted
+!!! tip "Fan Connection"
+    Make sure the fan connector polarity matches the pinout on the board (Fan header). If needed, repin the fan connector accordingly.
 
-This page is not available in this language yet.
+![img](../../img/pcb-pinout/pinout.png)
 
-You can help the iDryer project by translating this article. Please use the English or Russian version as the source, check the meaning carefully, and submit your translation as a pull request to the documentation repository.
-
-Thank you for helping make the documentation available to more makers.
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-blue)](https://t.me/iDryer)  [![YouTube](https://img.shields.io/badge/YouTube-Watch%20video-red)](https://www.youtube.com/@iDryerProject) [![Rutube](https://img.shields.io/badge/Rutube-Watch%20video-blue)](https://rutube.ru/channel/34401569/) -->

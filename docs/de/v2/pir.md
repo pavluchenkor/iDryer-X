@@ -1,9 +1,15 @@
-<!-- i18n-placeholder: true -->
+# Vorteile von PIR
 
-# Translation wanted
+PIR-Platte ist ein kostengünstiges und leicht erhältliches Material für die Herstellung des Trocknergehäuses.
 
-This page is not available in this language yet.
+### Vorteile
+- Preis
+- Bearbeitungskomfort und Einfachheit
+- akzeptables Aussehen
+- Wärmeleitfähigkeit zählt zu den niedrigsten unter Dämmstoffen
+- Keine Abgabe schädlicher Stoffe beim Erhitzen
 
-You can help the iDryer project by translating this article. Please use the English or Russian version as the source, check the meaning carefully, and submit your translation as a pull request to the documentation repository.
+### Nachteile
+- Kann durch Stoßbelastung verformt werden
 
-Thank you for helping make the documentation available to more makers.
+Dies macht PIR-Platten insgesamt zu einem geeigneten Material für die Verwendung als Trocknergehäuse sowie als Wärmeisolierung der aktiven Thermokammer.

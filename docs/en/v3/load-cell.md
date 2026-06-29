@@ -1,9 +1,30 @@
-<!-- i18n-placeholder: true -->
+# Floor and Spool Holders
 
-# Translation wanted
+Metal parts for the floor and spool holders.
 
-This page is not available in this language yet.
+<div class="grid cards" markdown>
+- ![iDryer](../../img/load-cell/IMG_2438.jpg)
+- ![iDryer](../../img/load-cell/IMG_2439.jpg)
+- ![iDryer](../../img/load-cell/IMG_2442.jpg)
+- ![iDryer](../../img/load-cell/UEQO8811.jpg)
+</div>
 
-You can help the iDryer project by translating this article. Please use the English or Russian version as the source, check the meaning carefully, and submit your translation as a pull request to the documentation repository.
+## Load Cell Installation
 
-Thank you for helping make the documentation available to more makers.
+5 kg load cells are used. The load cells should be installed with the arrow pointing downward.
+
+![Gap](../../img/load-cell/0002.png)
+
+It is necessary to set a gap using washers between the floor and the load cell so that the compound covering the strain gauge does not touch the floor surface.
+
+![Gap](../../img/load-cell/0001.png)
+
+Depending on the sensor manufacturer, either M5 or M4 screws (20 mm in length) may be used to mount the load cell to the floor. The spool holder is typically attached with 4 mm screws, 16-20 mm long.
+
+The gap between the spool holder and the floor should be 2-4 mm and is set using printed spacers or washers. The gap must allow free vertical movement of the spool holder under the filament's weight.
+
+![Gap](../../img/load-cell/0003.png)
+
+## Wiring
+
+Wires are routed into the lower compartment through notches in the load cell grooves. These notches are sealed from below using aluminum tape.

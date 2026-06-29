@@ -1,9 +1,23 @@
-<!-- i18n-placeholder: true -->
+# Controller Enclosure r2
 
-# Translation wanted
+Download and print the two files [designed by @gungrel](https://t.me/gungrel):
 
-This page is not available in this language yet.
+<div class="image-container">
+  <div class="custom-image">
+    <img src="../../img/pcb-case/Assembly_ebox.jpg" alt="spool holder">
+  </div>
+  <div class="custom-image">
+    <img src="../../img/pcb-case/screen_stand.jpg" alt="spool holder">
+  </div>
+</div>
 
-You can help the iDryer project by translating this article. Please use the English or Russian version as the source, check the meaning carefully, and submit your translation as a pull request to the documentation repository.
+## Files
 
-Thank you for helping make the documentation available to more makers.
+!!! quote annotate "Printable Files"
+
+    :material-download:</i> **[iDryer v1 prototype](../../../CAD/common/pcb-case/Assembly_ebox.stp)** - Enclosure
+
+    :material-link:</i>** [iDryer v2](../../../CAD/common/pcb-case/screen_stand.stp)** - Screen stand
+
+
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-blue)](https://t.me/iDryer)  [![YouTube](https://img.shields.io/badge/YouTube-Watch%20video-red)](https://www.youtube.com/@iDryerProject) [![Rutube](https://img.shields.io/badge/Rutube-Watch%20video-blue)](https://rutube.ru/channel/34401569/) -->

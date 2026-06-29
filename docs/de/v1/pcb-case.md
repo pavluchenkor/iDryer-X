@@ -1,9 +1,14 @@
-<!-- i18n-placeholder: true -->
+# Gehäuse des Controllers r2
 
-# Translation wanted
+Laden Sie die beiden Dateien herunter und drucken Sie diese aus [entwickelt von @gungrel](https://t.me/gungrel)
 
-This page is not available in this language yet.
+![Assembly ebox](../../img/pcb-case/Assembly_ebox.jpg)
+![screen stand](../../img/pcb-case/screen_stand.jpg)
 
-You can help the iDryer project by translating this article. Please use the English or Russian version as the source, check the meaning carefully, and submit your translation as a pull request to the documentation repository.
+## Dateien
 
-Thank you for helping make the documentation available to more makers.
+!!! note "Druckdateien"
+
+    [iDryer v1 prototype](../../../CAD/common/pcb-case/Assembly_ebox.stp) - Gehäuse
+
+    [iDryer v2](../../../CAD/common/pcb-case/screen_stand.stp) - Bildschirmabstandshalter
