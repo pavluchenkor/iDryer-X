@@ -23,7 +23,4 @@ BOM for DIY assembly r2.1 on [Google Docs](https://docs.google.com/spreadsheets/
 !!! warning "Display and Encoder"
 In the current case design, the display and encoder are connected using the wires included in the DIY kit.
 
-You can independently order the manufacturing of the PCB and purchase the required components.
-If you have basic soldering skills, assembly will be easy-components are all through-hole and large, and community members are always happy to help with advice.
-
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-blue)](https://t.me/iDryer)  [![YouTube](https://img.shields.io/badge/YouTube-Watch%20video-red)](https://www.youtube.com/@iDryerProject) [![Rutube](https://img.shields.io/badge/Rutube-Watch%20video-blue)](https://rutube.ru/channel/34401569/) -->
