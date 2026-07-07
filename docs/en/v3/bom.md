@@ -77,5 +77,5 @@ Devices connected to the board by cables.
 
 |		|	x2	|	x3	|	x4	|
 |	-	|	-	|	-	|	-	|
-|	Aluminum reinforced tape	|	500	|	550	|	620	|
-|	Knauf Dichtungsband sealing tape	|	120	|	140	|	160	|
+|	Aluminum reinforced tape(mm)	|	5000	|	5500	|	6200	|
+|	Knauf Dichtungsband sealing tape(mm)	|	1200	|	1400	|	1600	|

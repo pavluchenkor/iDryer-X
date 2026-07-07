@@ -77,5 +77,5 @@ Geräte, die über Kabel mit der Leiterplatte verbunden sind.
 
 |		|	x2	|	x3	|	x4	|
 |	-	|	-	|	-	|	-	|
-|	Armiertes Aluminiumklebeband	|	500	|	550	|	620	|
-|	Knauf-Dichtungsband	|	120	|	140	|	160	|
+|	Armiertes Aluminiumklebeband(mm)	|	5000	|	5500	|	6200	|
+|	Knauf-Dichtungsband(mm)	|	1200	|	1400	|	1600	|
