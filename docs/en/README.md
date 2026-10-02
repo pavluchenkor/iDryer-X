@@ -83,9 +83,9 @@ Assembly instructions for the KIT version can be found in the iDryer v3 section.
 
 ### Energy Efficiency
 
-* Drying mode \~ 40W/hour
-* Storage mode \~ 20W/hour
-* Standby mode \~ 3W/hour
+* Drying mode: \~40 W (average power)
+* Storage mode: \~20 W (average power)
+* Standby mode: \~3 W
 
 ### Chamber Ventilation
 

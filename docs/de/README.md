@@ -59,9 +59,9 @@ Anweisungen zur Montage des KIT-Sets finden Sie im Abschnitt iDryer v3.
 - Feuchteüberwachung in der Kammer
 
 ### Energieeffizienz
-- Trockenmodus ~ 40W/Stunde
-- Lagermodus ~ 20W/Stunde
-- Standby-Modus ~ 3W/Stunde
+- Trockenmodus: ~40 W (durchschnittliche Leistung)
+- Lagermodus: ~20 W (durchschnittliche Leistung)
+- Standby-Modus: ~3 W
 
 ---
 
